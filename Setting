@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Bearded Theme HC Midnight Void",
+  "workbench.startupEditor": "none",
+  "files.autoSave": "afterDelay",
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "security.workspace.trust.banner": "never",
+  "workbench.iconTheme": "bearded-icons",
+  "editor.formatOnSave": true,
+  "workbench.list.smoothScrolling": true,
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "editor.comments.insertSpace": false,
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.cursorBlinking": "expand",
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.layoutControl.enabled": false,
+  "editor.hover.delay": 1500,
+  
+}
